@@ -1,0 +1,4 @@
+username: rachelk4
+pass: TestiBoi!001
+
+ssh rachelk4@40.114.36.121
